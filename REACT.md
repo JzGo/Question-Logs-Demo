@@ -1,4 +1,6 @@
 
+# React
+
 | Question      | Answer        | Additional Resources |
 | ------------- | ------------- | -------------------- |
 | Is it better to have more or fewer components?  | More is better. UIs broken into smaller reusable functionality are more flexible and end up letting the page perform better (faster). |
